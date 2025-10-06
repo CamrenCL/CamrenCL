@@ -16,7 +16,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CamrenCL/MyDFIR-30-Day-Mini-SOC-Challenge">Mini-SOC</a>|
 | Security Automation with Shuffle SOAR          | Mini-SOC Challenge|
 | Incident Response Planning and Execution       | Mini-SOC Challenge|
-| Case Management with TheHive                   | Mini-SOC Challenge|
 | Scripting and Automation for Threat Mitigation | Mini-SOC Challenge|
 
 ## Tools
