@@ -12,8 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/CamrenCL/MyDFIR-30-Day-Mini-SOC-Challenge">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/CamrenCL/MyDFIR-30-Day-Mini-SOC-Challenge">Mini-SOC</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/CamrenCL/MyDFIR-30-Day-Mini-SOC-Challenge">Mini-SOC</a>|
 | Security Automation with Shuffle SOAR          | Mini-SOC Challenge|
 | Incident Response Planning and Execution       | Mini-SOC Challenge|
 | Case Management with TheHive                   | Mini-SOC Challenge|
@@ -26,14 +26,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
-
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
